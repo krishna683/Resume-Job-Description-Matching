@@ -1,6 +1,7 @@
 streamlit
 torch
 numpy 
-sklearn
+scikit-learn
 PyPDF2
 transformers 
+
